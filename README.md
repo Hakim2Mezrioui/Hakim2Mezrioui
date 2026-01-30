@@ -49,10 +49,10 @@
 
 ### 🤝 Connectons-nous
 
-<a href="LIEN_LINKEDIN_ICI" target="_blank">
+<a href="https://www.linkedin.com/in/hakim-mezrioui?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BH%2BJTDoaBSNi0o1BGW4HY1w%3D%3D" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:TON_EMAIL_ICI">
+<a href="mailto:mezrioui.hakim@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
